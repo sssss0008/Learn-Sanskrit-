@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M0,0h108v108h-108z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="15"
+                android:startY="15"
+                android:endX="95"
+                android:endY="95"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#C83E15" />
+                <item android:offset="0.6" android:color="#8E1B0F" />
+                <item android:offset="1.0" android:color="#4E0803" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Subtle circular mandala pattern in background -->
+    <path
+        android:strokeColor="#33FFD54F"
+        android:strokeWidth="1.2"
+        android:fillColor="#00000000"
+        android:pathData="M54,20 A34,34 0 1,0 54,88 A34,34 0 1,0 54,20" />
+    <path
+        android:strokeColor="#22FFD54F"
+        android:strokeWidth="1.0"
+        android:fillColor="#00000000"
+        android:pathData="M54,14 A40,40 0 1,0 54,94 A40,40 0 1,0 54,14" />
+</vector>

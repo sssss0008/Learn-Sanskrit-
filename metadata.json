@@ -1,0 +1,6 @@
+{
+  "name": "Sanskritam",
+  "description": "Comprehensive Sanskrit language learning app with Sanskrit, Nepali, and English trilingual support, grammar, vocabulary, pronunciation, slokas, and quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Sun aura / Halo ring -->
+        <path
+            android:fillColor="#33FFD54F"
+            android:pathData="M54,26 A28,28 0 1,0 54,82 A28,28 0 1,0 54,26" />
+
+        <!-- Lotus / Open Book Base -->
+        <path
+            android:fillColor="#FFC107"
+            android:pathData="M32,72 C38,68 46,69 54,73 C62,69 70,68 76,72 C71,76 63,77 54,75 C45,77 37,76 32,72 Z" />
+        <path
+            android:fillColor="#FFE082"
+            android:pathData="M38,71 C43,67 49,68 54,71 C59,68 65,67 70,71 C65,74 59,74 54,73 C49,74 43,74 38,71 Z" />
+
+        <!-- Central Sanskrit Om (ॐ) representation in bold calligraphy -->
+        <!-- 3 loop upper and lower -->
+        <path
+            android:fillColor="#FFF8E1"
+            android:pathData="M48,39 C46,36 42,34 38,36 C34,38 33,42 35,46 C37,49 41,51 45,51 C41,53 35,56 34,61 C33,67 38,71 44,70 C49,69 53,65 54,61 C55,57 52,53 47,52 C45,52 44,51 44,50 C44,49 46,47 48,47 C50,47 52,43 51,40 C50,39 49,39 48,39 Z" />
+
+        <!-- Right upward flourish / tail of Om -->
+        <path
+            android:fillColor="#FFE082"
+            android:pathData="M49,52 C53,52 59,50 63,44 C65,41 68,36 67,33 C66,31 63,33 61,35 C57,40 52,44 48,46 Z" />
+
+        <!-- Crescent (Chandrabindu) and dot -->
+        <path
+            android:fillColor="#FFD54F"
+            android:pathData="M56,33 C58,35 63,36 68,34 C65,37 60,37 56,33 Z" />
+        <!-- Bindu / dot -->
+        <path
+            android:fillColor="#FFF9C4"
+            android:pathData="M63,30 A2,2 0 1,0 63,26 A2,2 0 1,0 63,30" />
+    </group>
+</vector>
